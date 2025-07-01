@@ -1,5 +1,4 @@
-# Diabetes-Prediction
-# -*- coding: utf-8 -*-
+
 # DIABETES PREDICTION with Deep Learning
 
 # Importing Dependencies
